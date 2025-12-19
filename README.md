@@ -49,12 +49,12 @@ Hands-on implementations focused on application security.
 
 ## 📊 GitHub Activity
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sungjinwoo100&show_icons=true&theme=dark)
 
 ---
 
 ## 📬 Contact
 
-- 📧 Email: your_email@example.com  
-- 💼 LinkedIn: *(optional)*  
+- 📧 Email: rezzhask@gmail.com  
+ 
 
