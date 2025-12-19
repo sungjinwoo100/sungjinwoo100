@@ -1,5 +1,6 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=0e75b6&height=200&section=header&text=Sung%20Jinwoo&fontSize=70&animation=fadeIn&fontAlignY=38" />
+ <div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=45&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Bonifacio+Egot;Junior+Web+Developer;IT+Student" alt="Typing SVG" />
+
 
   <h3>🚀 Information Technology Student • Junior Web Developer</h3>
 
