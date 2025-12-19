@@ -1,60 +1,82 @@
-# Sungjinwoo 👋
+<h1 align="center">Sung jinwoo </h1>
+<h3 align="center">Information Technology Student • Junior Web Developer</h3>
 
-🎓 **Information Technology Student**  
-💻 **Aspiring Full-Stack Developer**
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sungjinwoo100&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
 
-I am an IT student with a strong interest in building **scalable web systems**, **role-based dashboards**, and **database-driven applications**. I enjoy transforming academic projects into real-world, functional systems while continuously improving my coding practices.
+---
+
+## 👋 About Me
+
+🎓 I am an **Information Technology student** with a strong interest in **web development** and **system design**.  
+💻 I build **database-driven web applications** using PHP and MySQL, focusing on **clean structure, usability, and real-world workflows**.  
+🚀 Currently preparing for **internship and junior developer opportunities** by continuously improving my projects and coding practices.
 
 ---
 
 ## 🛠️ Technical Skills
 
-**Frontend Development**
-- HTML, CSS, JavaScript  
+### 🌐 Web Development
+<p>
+  <img src="https://img.shields.io/badge/HTML5-111?style=for-the-badge&logo=html5" />
+  <img src="https://img.shields.io/badge/CSS3-111?style=for-the-badge&logo=css3&logoColor=blue" />
+  <img src="https://img.shields.io/badge/JavaScript-111?style=for-the-badge&logo=javascript" />
+  <img src="https://img.shields.io/badge/PHP-111?style=for-the-badge&logo=php" />
+  <img src="https://img.shields.io/badge/MySQL-111?style=for-the-badge&logo=mysql" />
+</p>
 
-**Backend Development**
-- PHP (Object-Oriented Programming)
-- MySQL (PDO & MySQLi)
+### 📱 Mobile Development
+<p>
+  <img src="https://img.shields.io/badge/Flutter-111?style=for-the-badge&logo=flutter" />
+</p>
 
-**Mobile Development**
-- Flutter *(Beginner)*
-
-**Tools & Environment**
-- Git & GitHub
-- VS Code
-- XAMPP
+### 🧰 Tools & Environment
+<p>
+  <img src="https://img.shields.io/badge/Git-111?style=for-the-badge&logo=git" />
+  <img src="https://img.shields.io/badge/GitHub-111?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/VS%20Code-111?style=for-the-badge&logo=visualstudiocode" />
+  <img src="https://img.shields.io/badge/XAMPP-111?style=for-the-badge&logo=apache" />
+</p>
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Academic & Personal Projects
 
 ### 🎓 University Management System
-A role-based web application designed to manage university operations efficiently.
-- Admin, Student, and Professor authentication
-- Dynamic dashboards with real-time data
-- Built using PHP (OOP) and MySQL
+🔗 **Repository:** [View Code](https://github.com/sungjinwoo100)
+- Role-based login (Admin, Student, Professor)
+- Dynamic dashboards with database integration
+- PHP (OOP) + MySQL backend architecture
 
 ### 🛒 Marketplace System (Buyer–Farmer)
-A transactional marketplace platform supporting negotiation workflows.
-- Product listing and management
-- Offer creation and price negotiation via messaging
-- Structured transaction flow
+🔗 **Repository:** [View Code](https://github.com/sungjinwoo100)
+- Product listing and offer system
+- Buyer–Farmer negotiation through messaging
+- End-to-end transaction workflow
 
-### 🔐 IT Security & Authentication Projects
-Hands-on implementations focused on application security.
+### 🔐 Security & Authentication Projects
+🔗 **Repository:** [View Code](https://github.com/sungjinwoo100)
 - Password strength validation
-- Authentication and access control mechanisms
+- Authentication and access control concepts
 
 ---
 
 ## 📊 GitHub Activity
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sungjinwoo100&show_icons=true&theme=dark)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sungjinwoo100&show_icons=true&theme=github_dark" />
+</p>
 
 ---
 
-## 📬 Contact
+## 📫 Contact
 
-- 📧 Email: rezzhask@gmail.com  
- 
-
+<p>
+  <a href="mailto:your_email@example.com">
+    <img src="https://img.shields.io/badge/Email-111?style=for-the-badge&logo=gmail" />
+  </a>
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-111?style=for-the-badge&logo=linkedin" />
+  </a>
+</p>
