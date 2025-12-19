@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=0e75b6&height=200&section=header&text=Bonifacio%20Egot&fontSize=70&animation=fadeIn&fontAlignY=38" />
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=0e75b6&height=200&section=header&text=Sung%20Jinwoo&fontSize=70&animation=fadeIn&fontAlignY=38" />
 
   <h3>🚀 Information Technology Student • Junior Web Developer</h3>
 
@@ -62,7 +62,7 @@ I am a passionate **Information Technology student** specializing in building ro
 ## 📊 Performance Metrics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sungjinwoo100&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sungjinwoo100&layout=compact&theme=tokyonight&hide_border=true" height="170" />
 </div>
 
@@ -73,5 +73,5 @@ I am a passionate **Information Technology student** specializing in building ro
 ---
 
 <div align="center">
-  <sub>Built with ❤️ by Bonifacio Egot</sub>
+  <sub>Built with ❤️ by Sung Jinwoo</sub>
 </div>
